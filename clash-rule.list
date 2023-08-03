@@ -1,0 +1,31 @@
+# Steam Download
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com,DIRECT
+DOMAIN-SUFFIX,st.dl.eccdnx.com,DIRECT
+DOMAIN-SUFFIX,st.dl.bscstorage.net,DIRECT
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com,DIRECT
+DOMAIN-SUFFIX,dl.steam.clngaa.com,DIRECT
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com,DIRECT
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com,DIRECT
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,DIRECT
+DOMAIN-SUFFIX,api.steampowered.com,DIRECT
+DOMAIN-SUFFIX,*.cm.steampowered.com,DIRECT
+DOMAIN-SUFFIX,*.steamserver.net,DIRECT
+DOMAIN-SUFFIX,*.steamcontent.com,DIRECT
+
+DOMAIN-SUFFIX,*.bilibili.com,DIRECT
+DOMAIN-SUFFIX,snapdrop.net,DIRECT
+DOMAIN-KEYWORD,api.ens.watcher.tools,DIRECT
+DOMAIN-KEYWORD,api.ord.watcher.tools,DIRECT
+DOMAIN-KEYWORD,api.watcher.tools,美國法士達 2
+
+# AI
+DOMAIN-KEYWORD,openai.com,美國法士達 2
+DOMAIN-SUFFIX,bing.com,美國甜甜圈 1
+DOMAIN-SUFFIX,*.bing.com,美國甜甜圈 1
+DOMAIN-SUFFIX,r.bing.com,美國甜甜圈 1
+DOMAIN-SUFFIX,chat.openai.com,美國甜甜圈 1
+DOMAIN-SUFFIX,bard.google.com,美國甜甜圈 1
+
+# Work
+IP-CIDR,192.168.195.1/24,DIRECT
