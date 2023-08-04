@@ -13,12 +13,6 @@ DOMAIN-SUFFIX,*.cm.steampowered.com,DIRECT
 DOMAIN-SUFFIX,*.steamserver.net,DIRECT
 DOMAIN-SUFFIX,*.steamcontent.com,DIRECT
 
-DOMAIN-SUFFIX,*.bilibili.com,DIRECT
-DOMAIN-SUFFIX,snapdrop.net,DIRECT
-DOMAIN-KEYWORD,api.ens.watcher.tools,DIRECT
-DOMAIN-KEYWORD,api.ord.watcher.tools,DIRECT
-DOMAIN-KEYWORD,api.watcher.tools,美國法士達 2
-
 # AI
 DOMAIN-KEYWORD,openai.com,美國法士達 2
 DOMAIN-SUFFIX,bing.com,美國甜甜圈 1
@@ -29,3 +23,11 @@ DOMAIN-SUFFIX,bard.google.com,美國甜甜圈 1
 
 # Work
 IP-CIDR,192.168.195.1/24,DIRECT
+
+# other
+DOMAIN-SUFFIX,*.bilibili.com,DIRECT
+DOMAIN-SUFFIX,snapdrop.net,DIRECT
+DOMAIN-KEYWORD,api.ens.watcher.tools,DIRECT
+DOMAIN-KEYWORD,api.ord.watcher.tools,DIRECT
+DOMAIN-KEYWORD,api.watcher.tools,美國法士達 2
+DOMAIN-KEYWORD,cdn.misakaf.org,DIRECT
