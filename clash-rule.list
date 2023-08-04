@@ -28,6 +28,7 @@ IP-CIDR,192.168.195.1/24,DIRECT
 DOMAIN-SUFFIX,*.bilibili.com,DIRECT
 DOMAIN-SUFFIX,snapdrop.net,DIRECT
 DOMAIN-SUFFIX,cdn.misakaf.org,DIRECT
+IP-CIDR,129.154.219,DIRECT
 DOMAIN-KEYWORD,api.ens.watcher.tools,DIRECT
 DOMAIN-KEYWORD,api.ord.watcher.tools,DIRECT
 DOMAIN-KEYWORD,api.watcher.tools,美國法士達 2
